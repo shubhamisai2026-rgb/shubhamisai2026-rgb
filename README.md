@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Isai
 
-<!--
-**shubhamisai2026-rgb/shubhamisai2026-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 Computer Science Student
+- 💻 Learning Python, HTML, CSS, JavaScript, and Flask
+- 🌱 Currently improving my Web Development skills
+- 🔥 Building projects to strengthen my programming knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Git & GitHub
+- spring-boot
+- mongo-db
+- sql
+- java
+- c
+- c++
+  
+
+## 📂 My Projects
+
+### Expense Tracker
+A simple web application to manage daily expenses.
+
+### Python Programs
+Collection of Python programs from basic to advanced concepts.
+
+### Java Programs
+Practice programs covering core Java concepts.
+
+### C Programming
+Programs covering C language fundamentals and problem-solving.
+
+## 🎯 Current Goal
+
+To become a skilled Full-Stack Developer by building real-world projects and continuously learning new technologies.
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/shubhamisai2026-rgb
