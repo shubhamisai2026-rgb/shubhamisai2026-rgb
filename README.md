@@ -1,4 +1,6 @@
-# Hi 👋, I'm Shubham Isai
+<h1 align="center">Hi 👋, I'm Shubham Isai</h1>
+
+<h3 align="center">Computer Science Student | Java Developer | Python Enthusiast | Spring Boot Learner</h3>
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
