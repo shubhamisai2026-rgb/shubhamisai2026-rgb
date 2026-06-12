@@ -41,12 +41,13 @@ Programs covering C language fundamentals and problem-solving.
 To become a skilled Full-Stack Developer by building real-world projects and continuously learning new technologies.
 
 ## 🌐 Connect With Me
+📧 Email: shubhamisai2026@gmail.com
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamisai2026-rgb)
+📱 Mobile no: +91 7058034041
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+💼 LinkedIn: 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamisai2026@gmail.com)
+🐙 GitHub: github.com/shubhamisai2026-rgb
 
 ## 🛠️ Technologies & Tools
 
